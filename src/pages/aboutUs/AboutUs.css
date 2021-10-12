@@ -1,0 +1,19 @@
+.home_container {
+  margin-top: 100px;
+  background-color: #efefef;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.h2-aboutUs {
+  color: crimson;
+  margin-top: 70px !important;
+  font-weight: bolder;
+  margin-bottom: 2rem;
+}
+
+.p-aboutUs {
+  font-weight: bold;
+  font-size: 20px;
+}
